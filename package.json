@@ -1,0 +1,20 @@
+{
+  "name": "error_propagating",
+  "version": "1.0.0",
+  "description": "Node.js callback convention. Error propagation using callback",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/NebyuTrust/error_propagating.git"
+  },
+  "author": "Nebyu Samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NebyuTrust/error_propagating/issues"
+  },
+  "homepage": "https://github.com/NebyuTrust/error_propagating#readme"
+}
