@@ -16,9 +16,6 @@ import path from "path";
 
   // Read
   readFile(filePath, "utf-8", (err, data) => {
-    // Parse data
-    let parsedData;
-
     if (err) {
       callback(err);
     }
